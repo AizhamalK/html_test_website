@@ -1,0 +1,32 @@
+h1{
+    display: none;
+}
+@media screen and (min-width: 576px) {
+    .Mobile {
+        display: block;
+
+    }
+    body {
+        background-color: lightblue;
+
+    }
+    .Tablet {
+        display: block;
+    }
+    .Laptop{
+    display: block;
+    }
+    .Desktop{
+    display: block;
+    }
+    .Huge{
+        display: block;
+    }
+    
+    }
+  
+  
+  
+  
+  
+  
